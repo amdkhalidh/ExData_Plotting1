@@ -20,4 +20,4 @@ axis(2,at=c("0","2","4","6"),labels=c("0","2","4","6")) ## scaling Y axis
 
 dev.off() ## close the device and returns the number and name of the new active device
 
-## OUTPUT - "plot2.png" file will be generated in current working directory.
+## OUTPUT - "plot2.png" file will be generated in current working directory. 
